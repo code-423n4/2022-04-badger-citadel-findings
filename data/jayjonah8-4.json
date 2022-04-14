@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "Function can fail due to missing underflow check ",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/4"
+}
