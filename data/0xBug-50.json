@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "0xBug",
+  "address": "0x2c71B7615Db471630fc4DBDDBc20223D9C526509",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/50"
+}
