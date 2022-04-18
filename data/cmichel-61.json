@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "`KnightingRound` needs to trust governance to receive purchased tokens",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/61"
+}
