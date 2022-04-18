@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "minhquanym",
+  "address": "0x616e6EC41bE589C7Cd08ee9E2fE8dD0Eaddd8941",
+  "risk": "3",
+  "title": "`balance()` function in `StakedCitadel` is wrong",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/60"
+}
