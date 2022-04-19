@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "scaraven",
+  "address": "0xac3A826c8ea76Ab6FCE817d3e54da0acb5fd30d5",
+  "risk": "3",
+  "title": "Incorrect Function Call to Vesting Contract",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/94"
+}
