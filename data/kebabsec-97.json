@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "kebabsec",
+  "address": "0xB2fbcF2Fb1Eb86464d60F04bEd4065404cD67e18",
+  "risk": "3",
+  "title": "TREASURY_OPERATIONS_ROLE is not initialized properly",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/97"
+}
