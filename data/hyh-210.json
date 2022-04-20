@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "3",
+  "title": "StakedCitadel withdraw burns extra shares on Strategy liquidity issues",
+  "issueId": 210,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/210"
+}
