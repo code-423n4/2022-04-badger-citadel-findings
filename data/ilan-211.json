@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "ilan",
+  "address": "0xEEBd02ddc406754621ff674c19f048fdF95C6D2B",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 211,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/211"
+}
