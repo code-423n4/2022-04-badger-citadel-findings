@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "3",
+  "title": "`deposit()`ing when there is no discount results in zero xCitadel bought",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/173"
+}
