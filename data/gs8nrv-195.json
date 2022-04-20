@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "gs8nrv",
+  "address": "0xF2796FB43fF00b5b3c7575d6D6F17D7eD74bFD5A",
+  "risk": "2",
+  "title": "Removing Provider could lead to no provider at all",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/195"
+}
