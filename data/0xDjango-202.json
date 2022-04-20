@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "0xDjango",
+  "address": "0x5938Dc681121c306192F3187a3EEe47B9C697BA0",
+  "risk": "2",
+  "title": "Reliance on ERC20Upgradable.decimals() will always return 18 despite actual token decimals",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/202"
+}
