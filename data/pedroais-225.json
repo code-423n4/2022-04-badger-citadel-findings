@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "3",
+  "title": "Users wont be able to withdraw staked tokens since vesting function is called differently in interface and implementation",
+  "issueId": 225,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/225"
+}
