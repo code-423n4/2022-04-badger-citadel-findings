@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "m9800",
+  "address": "0x367bF4A80DA0Ed955DbeFb228c60fDf20C2f85B2",
+  "risk": "3",
+  "title": " If the funding discount is set to 0 in Funding.sol, getAmountOut() will return always 0, no matter the amount of asset in.",
+  "issueId": 218,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/218"
+}
