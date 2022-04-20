@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "kyliek",
+  "address": "0xdE624A36bcCd38DB850365b34Bc99ab3b1252415",
+  "risk": "2",
+  "title": "Accounts not on GuestList can deposit any amount in StakedCitadel",
+  "issueId": 131,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/131"
+}
