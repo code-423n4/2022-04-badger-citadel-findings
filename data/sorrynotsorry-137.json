@@ -1,0 +1,9 @@
+{
+  "contest": 110,
+  "handle": "sorrynotsorry",
+  "address": "0x6262f720679C04cc7f2a14c0c03486D0287c4853",
+  "risk": "2",
+  "title": "Deleting the structure will fail in MedianOracle.sol",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2022-04-badger-citadel-findings/issues/137"
+}
